@@ -1,3 +1,4 @@
+{
 class Car{
     make: string
     model:string
@@ -13,4 +14,5 @@ class Car{
         return today.getFullYear()-this.year
     }
 
+}
 }
